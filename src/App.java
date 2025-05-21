@@ -3,7 +3,7 @@ public class App {
         System.out.println("Holis, soy Lucia :3");
         System.out.println("Holis, soy Alvaro ");
         
-        int i = 8;
+        int i = 15;
         System.out.println(i);
     }
 }
